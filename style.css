@@ -2,6 +2,10 @@
     background-color: darkgoldenrod;
 } */
 
+body {
+    background-image: url("https://images8.alphacoders.com/644/644172.jpg");
+}
+
 h1 {
     border: 5px;
     color: rebeccapurple;
